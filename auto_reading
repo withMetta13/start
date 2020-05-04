@@ -1,0 +1,50 @@
+import csv
+import datetime as datetime
+from matplotlib import pyplot as plt
+from datetime import datetime
+
+filename = 'gree_profit1.csv'
+with open(filename, encoding="utf-8") as f:
+    reader = csv.reader(f) #2
+    header_row = next(reader) #3
+    #for index, column_header in enumerate(header_row, start=0):
+    #    print(index, column_header)
+    revenues_y, revenues_q, dates_y, dates_q, profits_y, profits_q = [], [], [], [], [], []
+    for row in reader:
+        try:
+            revenue = int(float(row[6]))
+            current_date = datetime.strptime(row[2], "%Y-%m-%d")
+            profit = int(float(row[53]))
+        except IndexError:
+            print(current_date, 'index error')
+        else:
+            revenues_q.append(int(revenue/100000000))
+            dates_q.append(current_date)
+            profits_q.append(int(profit/100000000))
+
+    revenues_y = revenues_q[-4::-4]
+    dates_y = dates_q[-4::-4]
+    profits_y = profits_q[-4::-4]
+    print(profits_y)
+    print(revenues_y)
+    print(str(len(dates_q))+'  '+str(len(revenues_q)))
+    print(dates_q)
+
+
+fig = plt.figure(dpi=128, figsize=(10, 6))
+plt.scatter(dates_y, revenues_y, c='red', s=5, alpha=0.5, cmap=plt.cm.Reds)
+plt.plot(dates_y, revenues_y, c='red', alpha=0.5)
+plt.scatter(dates_y, profits_y, c='blue', s=5, alpha=0.5)
+plt.plot(dates_y, profits_y, c='blue', alpha=0.5)
+
+plt.fill_between(dates_y, revenues_y, profits_y, facecolor='blue', alpha=0.1)
+plt.title('Gree Revenue & profit', fontsize=24)
+plt.xlabel('', fontsize=16)
+fig.autofmt_xdate()
+plt.ylabel('Revenue', fontsize=1)
+plt.tick_params(axis='both', which='major', labelsize=16)
+plt.show()
+
+
+
+
