@@ -1,0 +1,236 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD html 4.01 Transitional//EN">
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link href="./css/main.css?v=5" rel="stylesheet" type="text/css" />
+	<title>内观报名</title>
+
+	<script type="text/javascript" src="./js/jquery1.2.3.min.js"></script>
+</head>
+
+<body style="margin: 0 auto auto 10%; width: 1024px;">
+	<center>
+		<div id="top" style="width:90%">
+			<div id="menu">
+				<table width="90%">
+					<tr>
+						<td width="30%">
+							<img src="./images/logo.gif" />
+						</td>
+						<td align="center">
+							<h2 style="font-size: 38px;">内观报名</h2>
+						</td>
+						<td align="right" width="30%">
+							<a href="">首页</a>
+						</td>
+					</tr>
+				</table>
+			</div>
+
+		</div>
+		<div id="body" style="width:90%">
+
+			<div id="main_right" class="main_right" style="width:60%;text-align: left;margin-top:2px;margin-right:10px;border:1px solid #abc;padding:10px;">
+				<p style="text-align: left"><span style="font-family: 宋体"><span
+							style="font-size: small">遵循乌巴庆老师的传承，及葛印卡老师与其助理的教导</span></span></p>
+				<p style="text-align: left;line-height:16px;"><span style="font-family: 宋体"><span style="font-size: small"><span
+								class="style59">
+								<font color="#0000ff">内观（Vipassana）</font>
+							</span>是印度最古老的禅修方法之一。在长久失传之后，两千五百多年前被释迦牟尼佛重新发现。内观的意思是如实观察，也就是观察事物真正的面目：它是透过观察自身来净化身心的一个过程。开始的时候，借着观察自然的呼吸来提升专注力；等到觉知渐渐变得敏锐之后，接着就观察身和心不断在变化的特性，体验无常、苦、以及无我的普遍性实相。这种经由直接的经验去了知实相的方式，就是净化的过程。这整条（法的）道路，对于全宇宙普遍性的问题而言，正是普遍适用的治疗药方；而且不是只专属于特定的某个有组织的宗教或宗派。因此，不管什么人，在任何时间、地点都可以修习，没有任何限制；不会因为种族、背景或宗教的不同而有所冲突。每一个人都能平等无差别地获得实际的效益。
+						</span></span></p>
+				<p style="font-size:small;"><B>特色</B></p>
+				<p style="text-align: left">
+					<span style="font-family: 宋体"><span style="font-size: small">
+						<span class="style62" style="margin-left:-10px;">
+								<font color="#ffffff" >&middot;</font>
+							</span>&middot;是一种能将苦从根拔除的方法 <br /><br/>
+							<span class="style62" style="margin-left:-10px;">
+								<font color="#ffffff">&middot;</font>
+							</span>&middot;是一种生活的艺术，每一个人因而能对社会有正面的贡献 <br />
+							<br/>
+							<span class="style62" style="margin-left:-10px;">
+								<font color="#ffffff">&middot;</font>
+							</span>&middot;是一种净化心灵的方法，使我们能以宁静、<br/>
+							<br/>
+							&nbsp;&nbsp;平稳的方式去面对生活上的紧张、困难和问题。 <br />
+							<br/>
+							<span class="style62" style="margin-left:-10px;">
+								<font color="#ffffff">&middot;</font>
+							</span>&middot;不是基于盲目信仰的一种典礼或仪式 <br />
+							<br/>
+							<span class="style62" style="margin-left:-10px;">
+								<font color="#ffffff">&middot;</font>
+							</span>&middot;不是一种知识上或哲学上的满足 <br />
+							<br/>
+							<span class="style62" style="margin-left:-10px;">
+								<font color="#ffffff">&middot;</font>
+							</span>&middot;不是一种休闲、渡假或社交的机会 <br />
+							<br/>
+							<span class="style62" style="margin-left:-10px;">
+								<font color="#ffffff">&middot;</font>
+							</span>&middot;不是对日常生活磨难的一种逃避</span></span></p>
+				<p style="text-align: left"><span style="font-size: small">
+									<B>师承传统</B></p>
+				<p style="text-align: left"><span style="font-family: 宋体"><span
+							style="font-size: small">毘钵舍那（Vipassana），简称内观，是由释迦牟尼佛所传下，在阿育王时期，由须那迦(Sona)及郁多罗(Uttara)二位尊者传至缅甸。二十世纪初期缅甸最有名的雷迪尊者
+							(Ledi Sayadaw)将此法门依次下传</span></span></p>
+				
+					<p style="text-align: left;"><span style="font-family: 宋体"><span style="font-size: small">
+						       （1）铁吉老师
+								(Saya Thetgyi，乌铁 U Thet) <br />
+								（2）乌巴庆老师 (Sayagyi U Ba Khin) <br />
+								（3）S.N.葛印卡 (S.N Goenka) </span></span></p>
+			
+				<p style="text-align: left"><span style="font-family: 宋体"><span
+							style="font-size: small">一九六九年起葛印卡老师将此法门反哺印度，其后遍传欧美、日澳、泰国、尼泊尔等地。此法门直接对治烦恼习气，效果甚佳，广受欢迎。&nbsp;&nbsp;
+						</span></span></p>
+			</div>
+			<div id="main_left" class="main_left" style="width:35%">
+
+
+				<div style="height: 480px;width:90%;text-align:left;">
+
+					<div id="menu_title" style="margin-left: 15px;width:100%;margin-top:15px;">
+						<img id="img_node_course" src="images/minus.gif" align="bottom"
+							onclick="showSubNode('img_node_course', 'div_courseSubNode');">
+						<a href="javascript:showSubNode('img_node_course', 'div_courseSubNode');">报名请进入以下中心网页网址</a>
+					</div>
+					<div style="width:100%;font-size:21px;padding-left:40px;color:#FF6600">
+						<b>因疫情原因，暂停课程</b>
+					</div>
+				<!--
+					<div style="width:100%;">
+						<ul id="div_courseSubNode">
+							
+							<li style="width:100%"><a href="http://ng.shandao8.com/school/guid-a26031cf7b5b11eb8a937cd30ae45848/courses/list"
+									style="FONT-SIZE: 14px;">四川都江堰般若内观中心</a></li>
+							<li style="width:100%"><a href="http://ng.shandao8.com/school/guid-a2603a0b7b5b11eb8a937cd30ae45848/courses/list" style="FONT-SIZE: 14px;">石家庄井陉灵岩寺内观中心</a></li>
+										
+							<li style="width:100%"><span class="infoBtn" name="newsite-xj" style="FONT-SIZE: 14px;">新成内观中心</span></li>
+							<li style="width:100%"><span class="infoBtn" name="newsite-gd1" style="FONT-SIZE: 14px;">湖南桂东昙岫内观中心</span></li>
+							<li style="width:100%"><span class="infoBtn" name="newsite-qd" style="FONT-SIZE: 14px;">青岛内观中心</span></li>
+
+                           
+							
+							 <li style="width:100%"><span class="infoBtn" name="newsite-yq" style="FONT-SIZE: 14px;">北京永清内观中心</span></li>
+							
+								<li style="width:100%"><span class="infoBtn" name="newsite-nanchansi" style="FONT-SIZE: 14px;">南禅寺中心</span></li>
+							<li style="width:100%">&nbsp;&nbsp;&nbsp;&nbsp;</li>
+							<li style="width:100%">
+								<a href="http://ng.shandao8.com/codecourses" style="FONT-SIZE: 14px;" target="_blank">需要代码课程</a>
+							</li>
+
+						</ul>
+					</div>
+			
+					<div id="menu_title" style="margin-left: 15px;width:100%;">
+						<img id="img_node_schoolIntro" src="images/minus.gif" align="bottom"
+							onclick="showSubNode('img_node_schoolIntro', 'div_schoolIntroSubNode');">
+						<a href="javascript:showSubNode('img_node_schoolIntro', 'div_schoolIntroSubNode');">各地中心介绍</a>
+					</div>
+					
+					<div style="width:100%;">
+						<ul id="div_schoolIntroSubNode">
+							
+							<li style="width:100%"><span class="infoBtn" name="dujiangyan"
+									style="FONT-SIZE: 14px;">四川都江堰般若内观中心</span></li>
+							<li style="width:100%"><span class="infoBtn" name="shijiazhuang"style="FONT-SIZE: 14px;">石家庄井陉灵岩寺内观中心</span></li>
+							
+                            <li style="width:100%"><span class="infoBtn" name="guidong" style="FONT-SIZE: 14px;" target="_blank">湖南桂东昙岫内观中心</span></li>
+													
+							<li style="width:100%"><span class="infoBtn" name="xinjiang" style="FONT-SIZE: 14px;">新成内观中心</span></li>
+							<li style="width:100%"><span class="infoBtn" name="nanchansi"
+															style="FONT-SIZE: 14px;">南禅寺中心</a></li>														
+						</ul>
+					</div>
+				-->
+					<div id="menu_title" style="margin-left: 15px;width:100%;">
+						<img id="img_node_applySearch" src="images/minus.gif" align="bottom"
+							onclick="showSubNode('img_node_applySearch', 'div_applySearchSubNode');">
+						<a href="javascript:showSubNode('img_node_applySearch', 'div_applySearchSubNode');">报名后查询/确认</a>
+					</div>
+					<div style="width:100%;">
+						<ul id="div_applySearchSubNode">
+							<li style="width:100%">
+								
+								<span  style="FONT-SIZE: 14px;">查询/确认</span>
+							</li>
+							<li style="width:100%">
+								
+								<span  style="FONT-SIZE: 14px;">重填/取消</span>
+							</li>
+						</ul>
+					</div>
+
+					<div id="menu_title" style="margin-left: 37px;width:100%;color:#666;">
+						<span class="infoBtn_big" name="kcjjyugf" >课程简介和规范</span>
+					</div>
+
+					<div id="menu_title" style="margin-left: 
+					37px;width:100%;color:#666;">
+						<span class="infoBtn_big" name="minianapana" >迷你观息法</span>
+					</div>
+					<div id="menu_title" style="margin-left: 37px;width:100%;color:#666;">
+						<span class="infoBtn_big" name="jkzkvipassana" >健康状况声明</span>
+					</div>
+
+
+
+				</div>
+
+
+			</div>
+		</div>
+		<p></p>
+		<div id="bottom" style="width:90%" name="bzyuiqffzfe89001" title="neiguan">
+			<br/><br/>
+			© 内观报名
+			<br>
+		</div>
+	</center>
+	
+	<script type="text/javascript">
+		function showSubNode(imgId, div_id) {
+			if ($("#" + div_id).css("display") == "none") {
+				$("#" + div_id).show("slow");
+				$("#" + imgId).attr("src", "images/minus.gif");
+			} else {
+				$("#" + div_id).hide("slow");
+				$("#" + imgId).attr("src", "images/plus.gif");
+			}
+		}
+
+		$(document).ready(function() {
+			$(".infoBtn").click(function() {
+				var href= window.location.href;
+				var host = href.substring(0, href.lastIndexOf('/'));
+				var url = host+"/"+$(this).attr("name")+".html?v=38";
+				console.log(url);  
+				$.get(url, function(result) {
+					//console.log(result);  
+    				$("#main_right").html(result);
+  				});
+				
+				return false;
+	    	});
+
+			$(".infoBtn_big").click(function() {
+				var href= window.location.href;
+				var host = href.substring(0, href.lastIndexOf('/'));
+				var url = host+"/"+$(this).attr("name")+".html?v=38";
+				console.log(url);  
+				$.get(url, function(result) {
+					//console.log(result);  
+    				$("#main_right").html(result);
+  				});
+				
+				return false;
+	    	});
+
+		});
+
+	</script>
+</body>
+
+</html>
